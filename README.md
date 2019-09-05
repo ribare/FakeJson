@@ -1,3 +1,2 @@
-# FakeJson
-Android
+# FakeJson - Android
 Retrofit  + RecyclerView
