@@ -1,0 +1,2 @@
+# FakeJson - Android
+Retrofit  + RecyclerView
